@@ -1,5 +1,7 @@
 # reaction_timer
 
+#Mini game project written in Vue.js, JavaScript, HTML & CSS
+
 ## Project setup
 ```
 npm install
